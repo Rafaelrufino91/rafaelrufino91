@@ -1,4 +1,4 @@
-## Olá eu sou Rafael rufino, seja bem vindo ou bem vinda!
+## Olá meu nome é Rafael rufino, Sejam muito bem-vindos!
 <div align="center">
   <a href="https://github.com/Rafaelrufino91">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafaelrufino91&show_icons=true&theme=dark"/>
