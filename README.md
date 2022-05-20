@@ -7,6 +7,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-SQL" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Fsimbolo-de-formato-de-arquivo-sql_29553&psig=AOvVaw0G4jfdfVhSTE5hH4xJhpCs&ust=1653135542840000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICrqvuH7vcCFQAAAAAdAAAAABAD">
 </div>
   
 ##
