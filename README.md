@@ -5,13 +5,13 @@ Sejam muito bem-vindos!
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rafaelrufino91&show_icons=true&theme=dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelrufino91&theme=dark"/>
 </div>
+
+### Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
 </div>
-  
-##
 
 ### 📱 Redeѕ ѕocιaιѕ | Socιal
 <div>
