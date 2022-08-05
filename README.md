@@ -1,10 +1,15 @@
 ## Olá, meu nome é Rafael 👋 
 Sejam muito bem-vindos!
+
+***
+
 <div align="center">
   <a href="https://github.com/Rafaelrufino91">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rafaelrufino91&show_icons=true&theme=dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelrufino91&theme=dark"/>
 </div>
+
+***
 
 ### Skills
 <div style="display: inline_block">
