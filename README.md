@@ -1,5 +1,5 @@
 ## Olá, meu nome é Rafael 👋 
-## Sejam muito bem-vindos!
+# Sejam muito bem-vindos!
 <div align="center">
   <a href="https://github.com/Rafaelrufino91">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rafaelrufino91&show_icons=true&theme=dark"/>
@@ -13,10 +13,11 @@
   
 ##
 
-  ## 📱 Redeѕ ѕocιaιѕ | Socιal
+### 📱 Redeѕ ѕocιaιѕ | Socιal
 <div>
   <a href="https://www.instagram.com/rafael.srufino/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
   <a href = "mailto:rafaelsilvarufino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-da-silva-rufino-631b7014b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 </div>
+
+### Sιѕтeмa Operacιonaιѕ | OS
