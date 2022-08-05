@@ -21,3 +21,4 @@ Sejam muito bem-vindos!
 </div>
 
 ### Sιѕтeмa Operacιonaιѕ | OS
+<a href="#"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
