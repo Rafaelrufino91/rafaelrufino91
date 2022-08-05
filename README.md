@@ -1,6 +1,10 @@
 ## Olá, meu nome é Rafael 👋 
 Sejam muito bem-vindos!
 
+Aqui vocês vão poder conferir alguns projetos que tenho publicado para praticar e me desenvolver.
+
+Obrigado por vir, fique à vontade! 
+
 ***
 
 <div align="center">
