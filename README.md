@@ -13,9 +13,13 @@ Obrigado por vir, fique à vontade!
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelrufino91&theme=dark"/>
 </div>
 
+<div>
+  <img align="center" alt="Pixel-Art" width="1000px" src="https://github.com/LuSntgo/LuSntgo/blob/main/kikachan87.gif"/>
+</div>
+
 ***
 
-### Skills
+### Habilidades | Skills
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -34,7 +38,7 @@ Obrigado por vir, fique à vontade!
 <a href="#"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a href="#"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 
-### Ferramentas
+### Ferramentas | Tools
 <div style="display: inline_block">
  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
