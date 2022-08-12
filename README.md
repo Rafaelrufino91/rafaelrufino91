@@ -1,5 +1,4 @@
-## Olá, meu nome é Rafael 👋 
-Sejam muito bem-vindos!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Rafael+%F0%9F%91%8B;Sejam+muito+bem-vindos!" alt="Typing SVG" /></a>
 
 Aqui vocês conseguem conferir alguns projetos que tenho publicado para praticar e me desenvolver.
 
