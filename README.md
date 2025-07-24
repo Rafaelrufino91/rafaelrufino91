@@ -6,10 +6,10 @@
   Ao longo da minha trajetória, desenvolvi habilidades em análise de requisitos, elaboração de cenários de testes, execução e registro de evidências, sempre com atenção aos detalhes e foco na melhoria contínua dos processos.
   <br>
   Tenho estudado ferramentas de automação como <strong>Cypress</strong> e <strong>Postman</strong>, além de boas práticas de versionamento com <strong>Git</strong> e uso de pipelines com <strong>CI/CD</strong>, visando expandir minha atuação no controle de qualidade de sistemas.
-</p>
+</p><br>
 
 
----
+
 
 ## 💼 Sobre mim
 
@@ -17,8 +17,8 @@
 * 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** - Unisuam
 * 📚 Estudando **Cypress**, **JavaScript**, **Node.js** e **Python**
 * 🚀 Buscando me aperfeiçoar cada vez mais em **automação de testes**
+<br>
 
----
 
 ## 📊 GitHub Stats
 
@@ -28,7 +28,7 @@
   <img height="259em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafaelrufino91&theme=radical"/>
 </a>
 
----
+
 
 ## 🛠️ Habilidades | Skills
 
@@ -39,11 +39,11 @@
   <img align="center" alt="AWS" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 </div>
 
-<br><br>
+<br>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 
----
+
 
 ## 🌐 Redes Sociais
 
@@ -53,7 +53,7 @@
   <a href="https://www.linkedin.com/in/rafaeldasilvarufino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
----
+
 
 ## 💻 Sistemas Operacionais
 
@@ -62,7 +62,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
----
 
 ## 🔧 Ferramentas | Tools
 
@@ -72,7 +71,7 @@
   <img align="center" alt="Git" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
----
+
 
 ## 📈 Atividade Recente
 
