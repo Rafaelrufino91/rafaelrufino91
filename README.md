@@ -7,10 +7,7 @@
   <br>
   Tenho estudado ferramentas de automação como <strong>Cypress</strong> e <strong>Postman</strong>, além de boas práticas de versionamento com <strong>Git</strong> e uso de pipelines com <strong>CI/CD</strong>, visando expandir minha atuação no controle de qualidade de sistemas.
   
-</p><br>
-
-
-
+</p>
 
 ## 💼 Sobre mim
 
@@ -19,18 +16,13 @@
 * 📚 Estudando **Cypress**, **JavaScript**, **Node.js** e **Python**
 * 🚀 Buscando me aperfeiçoar cada vez mais em **automação de testes**
 
-<p align="right">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
-<br>
-</p>
-
 
 ## 📊 GitHub Stats
 
 <a href="https://github.com/Rafaelrufino91">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Rafaelrufino91&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelrufino91&layout=compact&langs_count=6&theme=radical"/>
-  <img height="159em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafaelrufino91&theme=radical"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Rafaelrufino91&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelrufino91&layout=compact&langs_count=6&theme=radical"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafaelrufino91&theme=radical"/>
 </a>
 
 
@@ -45,10 +37,6 @@
 </div>
 
 <br>
-
-
-
-
 
 ## 🌐 Redes Sociais
 
@@ -84,8 +72,6 @@
 <div align="center">
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rafaelrufino91\&bg_color=0d1117\&color=c535d0\&line=d1056c\&point=d1056c\&area=true\&area_color=d1056c\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img src="https://streak-stats.demolab.com?user=Rafaelrufino91&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph" />
 
 </div>
 
