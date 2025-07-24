@@ -57,10 +57,10 @@
 
 ## 💻 Sistemas Operacionais
 
-<div>
+<p align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</div>
+</p>
 
 
 ## 🔧 Ferramentas | Tools
@@ -79,9 +79,7 @@
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rafaelrufino91\&bg_color=0d1117\&color=c535d0\&line=d1056c\&point=d1056c\&area=true\&area_color=d1056c\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <br />
-
-  <img src="https://streak-stats.demolab.com?user=Rafaelrufino91&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph" />
+<img src="https://streak-stats.demolab.com?user=Rafaelrufino91&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph" />
 
 </div>
 
