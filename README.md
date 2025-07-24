@@ -6,7 +6,7 @@
   Ao longo da minha trajetória, desenvolvi habilidades em análise de requisitos, elaboração de cenários de testes, execução e registro de evidências, sempre com atenção aos detalhes e foco na melhoria contínua dos processos.
   <br>
   Tenho estudado ferramentas de automação como <strong>Cypress</strong> e <strong>Postman</strong>, além de boas práticas de versionamento com <strong>Git</strong> e uso de pipelines com <strong>CI/CD</strong>, visando expandir minha atuação no controle de qualidade de sistemas.
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
+  
 </p><br>
 
 
@@ -18,14 +18,16 @@
 * 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** - Unisuam
 * 📚 Estudando **Cypress**, **JavaScript**, **Node.js** e **Python**
 * 🚀 Buscando me aperfeiçoar cada vez mais em **automação de testes**
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 <br>
 
 
 ## 📊 GitHub Stats
 
 <a href="https://github.com/Rafaelrufino91">
-  <img height="80em" src="https://github-readme-stats.vercel.app/api?username=Rafaelrufino91&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelrufino91&layout=compact&langs_count=6&theme=radical"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Rafaelrufino91&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelrufino91&layout=compact&langs_count=6&theme=radical"/>
   <img height="159em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafaelrufino91&theme=radical"/>
 </a>
 
