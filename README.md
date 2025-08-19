@@ -16,24 +16,28 @@
 * 📚 Estudando **Cypress**, **JavaScript**, **Node.js** e **Python**
 * 🚀 Buscando me aperfeiçoar cada vez mais em **automação de testes**
 
-
 ## 📊 GitHub Stats
 
-<a href="https://github.com/Rafaelrufino91">
+<div align="center">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Rafaelrufino91&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelrufino91&layout=compact&langs_count=6&theme=radical"/>
+</div>
+
+<div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafaelrufino91&theme=radical"/>
-</a>
+</div>
 
 
 
 ## 🛠️ Habilidades | Skills
 
-<div style="display: inline_block">
-  <img align="center" alt="Python" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="MySQL" height="100" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="AWS" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="100" width="80" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Java" height="100" width="80" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="MySQL" height="100" width="80" style="margin: 0 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="SqlServer" height="100" width="80" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">
+  <img align="center" alt="AWS" height="100" width="80" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+  <img align="center" alt="Cypress" height="100" width="80" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg">
 </div>
 
 <br>
@@ -60,9 +64,10 @@
 ## 🔧 Ferramentas | Tools
 
 <div style="display: inline_block">
-  <img align="center" alt="VS Code" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-  <img align="center" alt="PyCharm" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
-  <img align="center" alt="Git" height="100" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="VS Code" height="100" width="80" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+  <img align="center" alt="PyCharm" height="100" width="80" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
+  <img align="center" alt="Postman" height="100" width="80" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain-wordmark.svg" />
+  <img align="center" alt="Git" height="100" width="80" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 
