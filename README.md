@@ -16,18 +16,6 @@
 * 📚 Estudando **Cypress**, **JavaScript**, **Node.js** e **Python**
 * 🚀 Buscando me aperfeiçoar cada vez mais em **automação de testes**
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Rafaelrufino91&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelrufino91&layout=compact&langs_count=6&theme=radical"/>
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafaelrufino91&theme=radical"/>
-</div>
-
-
 
 ## 🛠️ Habilidades | Skills
 
