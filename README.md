@@ -14,7 +14,7 @@
 
 * 🧪 **Analista de Testes / QA**
 * 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** - Unisuam
-* 📚 Estudando **Cypress**, **JavaScript**, **Node.js** e **Python**
+* 📚 Estudando **Playwright**, **JavaScript**, **Node.js** e **Python**
 * 🚀 Buscando me aperfeiçoar cada vez mais em **automação de testes**
 
 ---
